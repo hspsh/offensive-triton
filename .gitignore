@@ -25,5 +25,3 @@ fp-info-cache
 *.xml
 *.csv
 
-# Fab outputs
-*.zip
